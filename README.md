@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/am-saksham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/am-saksham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
