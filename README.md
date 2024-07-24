@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am-saksham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/am-saksham/LeetCode/tree/master/0035-search-insert-position) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/am-saksham/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
