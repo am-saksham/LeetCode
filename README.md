@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/am-saksham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/am-saksham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/am-saksham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/am-saksham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/am-saksham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
