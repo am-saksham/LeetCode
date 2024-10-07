@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/am-saksham/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -31,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/am-saksham/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/am-saksham/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -90,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
