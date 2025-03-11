@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/am-saksham/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/am-saksham/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/am-saksham/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/am-saksham/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2727-number-of-senior-citizens](https://github.com/am-saksham/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
 |  |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/am-saksham/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Depth-First Search
 |  |
