@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/am-saksham/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/am-saksham/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2727-number-of-senior-citizens](https://github.com/am-saksham/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/am-saksham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/am-saksham/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/am-saksham/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Greedy
+|  |
+| ------- |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 <!---LeetCode Topics End-->
