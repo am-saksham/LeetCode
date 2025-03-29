@@ -1,50 +1,25 @@
 class Solution {
 public:
     bool isValid(string s) {
-         std::stack<char> stk;
-    char x;
-    for(int i = 0; i < s.length(); i++)
-    {
-        if(s[i] == '(' || s[i] == '{' || s[i] == '[')
-        {
-            stk.push(s[i]);
-            continue;
-        }
-        
-        if(stk.empty())
-        {
-            return false;
-        }
-        switch(s[i])
-        {
-            case ')':
-                x = stk.top();
-                stk.pop();
-                if(x == '{' || x == '[')
-                {
-                    return false;
-                }
-                break;
-                
-            case '}':
-                x = stk.top();
-                stk.pop();
-                if(x == '(' || x == '[')
-                {
-                    return false;
-                }
-                break;
-                
-            case ']':
-                x = stk.top();
-                stk.pop();
-                if(x == '(' || x == '{')
-                {
-                    return false;
-                }
-                break;
+         stack<char> st;
+
+    for (char c : s) {
+        if (c == '(' || c == '{' || c == '[') {
+            st.push(c);
+        } else {
+            if (st.empty()) return false;
+
+            char top = st.top();
+            st.pop();
+
+            if ((c == ')' && top != '(') ||
+                (c == '}' && top != '{') ||
+                (c == ']' && top != '[')) {
+                return false;
+            }
         }
     }
-    return (stk.empty());
+
+    return st.empty();
     }
 };
