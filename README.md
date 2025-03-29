@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/am-saksham/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/am-saksham/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am-saksham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/am-saksham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/am-saksham/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Divide and Conquer
 |  |
