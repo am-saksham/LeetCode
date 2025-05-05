@@ -1,23 +1,24 @@
 class Solution {
 public:
+    bool isHappy(int n) {
+       while(n >= 1) {
+        n = sumOfSquare(n);
+        if(n == 1 || n == 7) {
+            return true;
+        } else if( n < 10) {
+            return false;
+        }
+       }
+       return false;
+    }
 
-    int sumOfDigits(int num) {
+    int sumOfSquare(int n) {
         int sum = 0;
-        while(num > 0) {
-            int d = num % 10;
-            sum += (int)pow(d, 2);
-            num /= 10;
+        while(n > 0) {
+            int a = n % 10;
+            sum += a*a;
+            n /= 10;
         }
         return sum;
-    }
-    bool isHappy(int n) {
-        unordered_set<int> seen;
-
-        while(n != 1) {
-            if(seen.count(n)) return false;
-            seen.insert(n);
-            n = sumOfDigits(n);
-        }
-        return true;
     }
 };
