@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/am-saksham/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/am-saksham/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/am-saksham/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/am-saksham/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2727-number-of-senior-citizens](https://github.com/am-saksham/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/am-saksham/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/am-saksham/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/am-saksham/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -151,5 +154,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/am-saksham/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/am-saksham/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
