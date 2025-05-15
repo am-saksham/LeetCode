@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/am-saksham/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/am-saksham/LeetCode/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/am-saksham/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/am-saksham/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/am-saksham/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/am-saksham/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/am-saksham/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
