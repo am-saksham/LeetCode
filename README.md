@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/am-saksham/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/am-saksham/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/am-saksham/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am-saksham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/am-saksham/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am-saksham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/am-saksham/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/am-saksham/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## String
