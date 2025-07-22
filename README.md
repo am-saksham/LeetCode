@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/am-saksham/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/am-saksham/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/am-saksham/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -162,4 +163,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/am-saksham/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/am-saksham/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/am-saksham/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/am-saksham/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
