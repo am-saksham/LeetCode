@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/am-saksham/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/am-saksham/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/am-saksham/LeetCode/tree/master/0525-contiguous-array) |
 | [0948-sort-an-array](https://github.com/am-saksham/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/am-saksham/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/am-saksham/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/am-saksham/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/am-saksham/LeetCode/tree/master/0202-happy-number) |
+| [0525-contiguous-array](https://github.com/am-saksham/LeetCode/tree/master/0525-contiguous-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/am-saksham/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/am-saksham/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/am-saksham/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -171,4 +173,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/am-saksham/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/am-saksham/LeetCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
